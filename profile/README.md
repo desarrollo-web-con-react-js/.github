@@ -1,5 +1,4 @@
 ## Hi there 👋
-
 👩‍💻 Ejercicios y proyectos desarrollados durante el curso Desarrollador WEB con REACT JS del trayecto formativo Programación de la Universidad
 Tecnológica Nacional en el marco de Argentina Programa 4.0 - 2023
 
